@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Colorsublime",
+		"Emmet",
+		"Facebook Material Theme",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"GitSavvy",
+		"Insert Callback",
+		"Material Theme",
+		"Package Control",
+		"PHP Companion",
+		"PhpNamespace",
+		"SublimeLinter",
+		"SublimeLinter-php"
+	]
+}
